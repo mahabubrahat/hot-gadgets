@@ -1,0 +1,29 @@
+.buy-now{
+    color:white;
+    padding:10px 20px;
+    background-color: black;
+    border-radius: 10px;
+    border:none;
+}
+.color{
+    color:dimgray
+}
+.card{
+    border:none;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px gray;
+    padding:20px;
+}
+.size{
+    font-size: 10px;
+}
+#cate{
+    border-bottom: 5px solid orange;
+    width:180px;
+}
+.image{
+    border-radius: 0 0 30px 0;
+    border:1px solid gray;
+    padding:20px;
+    box-shadow: 3px 3px 10px gainsboro;
+}
